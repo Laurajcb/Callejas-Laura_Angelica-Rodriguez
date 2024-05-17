@@ -1,5 +1,9 @@
 package com.backend.parcial;
 
-public class Aplication {
-    public class Aplication
+import com.backend.parcial.dbconnection.H2Connection;
+
+public class Application {
+    public static void main(String[] args) {
+        H2Connection.ejecutarScriptInicial();
+    }
 }
