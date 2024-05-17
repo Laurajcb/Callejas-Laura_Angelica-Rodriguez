@@ -1,1 +1,7 @@
 [2024-05-16 21:12:09] [ INFO ] [OdontologoDaoH2:91] Odontologos: {1=Odontologo: id = 1, matricula = 'M-123456, nombre = 'Pepe, apellido = 'Massachusetts, 2=Odontologo: id = 2, matricula = 'M-789123, nombre = 'Sydney, apellido = 'Gales}
+[2024-05-16 22:02:38] [ INFO ] [OdontologoDaoH2:16] Odontologo guardado en memoria: {}
+[2024-05-16 22:02:39] [ INFO ] [OdontologoDaoH2:27] Odontologos guardados en memoria: {1=Odontologo: id = 1, matricula = 'M-123455, nombre = 'Maria, apellido = 'Perez, 2=Odontologo: id = 2, matricula = 'M-789997, nombre = 'Martina, apellido = 'Marin, 3=Odontologo: id = 3, matricula = 'M-152663, nombre = 'Pedro, apellido = 'Perez}
+[2024-05-16 22:04:00] [ INFO ] [OdontologoDaoH2:21] Odontologo guardado en memoria: Odontologo: id = 1, matricula = 'M-123455, nombre = 'Maria, apellido = 'Perez
+[2024-05-16 22:04:00] [ INFO ] [OdontologoDaoH2:21] Odontologo guardado en memoria: Odontologo: id = 2, matricula = 'M-789997, nombre = 'Martina, apellido = 'Marin
+[2024-05-16 22:04:00] [ INFO ] [OdontologoDaoH2:21] Odontologo guardado en memoria: Odontologo: id = 3, matricula = 'M-152663, nombre = 'Pedro, apellido = 'Perez
+[2024-05-16 22:04:00] [ INFO ] [OdontologoDaoH2:27] Odontologos guardados en memoria: {1=Odontologo: id = 1, matricula = 'M-123455, nombre = 'Maria, apellido = 'Perez, 2=Odontologo: id = 2, matricula = 'M-789997, nombre = 'Martina, apellido = 'Marin, 3=Odontologo: id = 3, matricula = 'M-152663, nombre = 'Pedro, apellido = 'Perez}
